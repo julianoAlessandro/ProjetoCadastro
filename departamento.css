@@ -1,0 +1,59 @@
+*{
+padding: 0;
+margin: 0;
+}
+h2{
+    color:white;
+}
+body{
+  
+    background-image: url(img/pessoas.jpg);
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}
+.centralizando{
+    width: 100vw;
+    height: 76vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+.inputs{
+    margin: 3%;
+    cursor: text;
+    width: 40%;
+    padding: 2.5px;
+    border: 0;
+    border-bottom: 2px solid  white;
+    outline: 0;
+    background: none;
+}
+
+.enviar2{
+    position: relative;
+    left: 20%;
+    width: 62%;
+    height: 55%;
+    border-radius: 3px;
+    background-color: gainsboro;
+    border-radius: 6px;
+}
+label{
+    color:white;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+h2{
+    text-align: center;
+    color:white;
+}
+form{
+    
+}
+fieldset{
+    border: 2px solid gray;
+    padding: 6px;
+}
