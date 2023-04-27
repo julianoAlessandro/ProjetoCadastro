@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-top: 15%;
+    background-image: url(img/Grafico2.jpg);
+    background-size: cover;
+ 
+}
+h2{
+    text-align: center;
+    padding: 2%;
+    padding-left: 2%;
+}
+table{
+    padding: 8px;
+    background-color: gray;
+    opacity: 0.9;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 2px;
+}
+th{
+    color:white;
+}
